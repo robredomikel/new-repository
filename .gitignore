@@ -1,3 +1,6 @@
 .gitignore.swo
 .gitignore.txt
 ignored.txt
+*.in
+*.out
+*.pyc
